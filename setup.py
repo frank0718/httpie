@@ -1,4 +1,6 @@
 # This is purely the result of trial and error.
+#
+# diff 
 
 import sys
 import codecs
